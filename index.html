@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Code Editor</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/902123593c.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<div class="wrapper">
+
+<div class="input">
+
+<section>
+
+<div>
+    <i class="fa-brands fa-html5"></i>
+    <h1>Html</h1>
+</div>
+
+<textarea id="htmlValue"></textarea>
+
+</section>
+
+<section>
+
+<div>
+    <i class="fa-brands fa-css3-alt"></i>
+    <h1>Css</h1>
+</div>
+<textarea id="cssValue"></textarea>
+    
+</section>
+
+<section>
+
+<div>
+    <i class="fa-brands fa-js"></i>
+    <h1>Javascript</h1>
+</div>
+<textarea id="jsValue"></textarea>
+</section>
+
+</div>
+
+<div class="outputDiv">
+<iframe id="output"></iframe>
+<section id="errorDiv">
+<h3 id="errorMessage"></h3>
+<button id="closeBtn">Close</button>
+</section>
+</div>
+
+</div>
+
+<script src="script.js"></script> 
+</body>
+</html>

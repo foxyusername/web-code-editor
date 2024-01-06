@@ -36,7 +36,7 @@ This editor is compatible with most modern web browsers including Chrome, Firefo
 
 ## Demo
 
-For a live demonstration of this Web Code Editor, visit - https://webstitecoding.netlify.app/
+For a live demonstration of this Web Code Editor, visit - https://websitecoding.netlify.app/
 
 ## Disclaimer
 

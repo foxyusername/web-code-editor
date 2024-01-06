@@ -22,7 +22,7 @@ This Web Code Editor is designed to facilitate faster frontend website editing a
 ## Usage
 
 1. **fill out the Html,Css or Javascript fields with your desired code**
-2. **execute the code by pressing ctrl+s**
+2. **execute the code by pressing ctrl + s**
 
 ### Localhost Deployment
 

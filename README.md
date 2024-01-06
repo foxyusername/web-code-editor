@@ -1,7 +1,6 @@
 e# Web Code Editor (HTML/CSS/JS)
 
-This Web Code Editor is designed to facilitate faster frontend website editing and coding directly within a web browser. It caters to individuals who lack access to advanced code editors like Visual Studio Code or similar tools. Users can download and run it on their localhost or use it on already running web server  https://webstitecoding.netlify.app
-
+This Web Code Editor is designed to facilitate faster frontend website editing and coding directly within a web browser. It caters to individuals who lack access to advanced code editors like Visual Studio Code or similar tools. Users can download and run it on their localhost or use it on already running web server
 ## Features
 
 - **Efficient HTML, CSS, and JavaScript Editing**: Seamlessly write, edit, and preview code for frontend web development.
@@ -22,7 +21,7 @@ This Web Code Editor is designed to facilitate faster frontend website editing a
 ## Usage
 
 1. **fill out the Html,Css or Javascript fields with your desired code**
-2. **execute the code by pressing 'ctrl + s'**
+2. **execute the code by pressing -- Ctrl + S**
 
 ### Localhost Deployment
 
@@ -37,7 +36,7 @@ This editor is compatible with most modern web browsers including Chrome, Firefo
 
 ## Demo
 
-For a live demonstration of this Web Code Editor, visit [Demo Link].
+For a live demonstration of this Web Code Editor, visit - https://webstitecoding.netlify.app/
 
 ## Disclaimer
 

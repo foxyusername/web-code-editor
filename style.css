@@ -50,6 +50,7 @@ i{
     color: rgb(209, 209, 209);
     font-size: 1rem;
     border: 0;
+    text-decoration: none !important;
 }
 
 .input section h1{

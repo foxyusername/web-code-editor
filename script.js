@@ -1,3 +1,5 @@
+alert('In order to save the file click  ctrl + s');
+
 let htmlValue = document.getElementById('htmlValue');
 let cssValue = document.getElementById('cssValue');
 let jsValue = document.getElementById('jsValue');

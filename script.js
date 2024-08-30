@@ -1,5 +1,3 @@
-alert('In order to save the file click  ctrl + s');
-
 let htmlValue = document.getElementById('htmlValue');
 let cssValue = document.getElementById('cssValue');
 let jsValue = document.getElementById('jsValue');
@@ -18,6 +16,7 @@ window.addEventListener('load',()=>{
 
 if(localStorage.getItem('showAlert')===false || localStorage.getItem('showAlert')===null || localStorage.getItem('showAlert')===undefined ){
    localStorage.setItem('showAlert',true);
+   alert('In order to save the file click  ctrl + s');
    alert("This website uses browser's localStorage in order to save the written code and execute it after reopening or refreshing the site");
    console.log('hit');
 }
